@@ -1,0 +1,6 @@
+print(10, end="\t")
+print(20)
+print(30)
+print("-------------------")
+print(10, 20, 30, sep="**", end=" ")
+print(10, 20, 30, sep="\n")

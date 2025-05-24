@@ -7,3 +7,6 @@ if n1 <= n2:
         print(f"{n1} < {n2} < {n3}")
     else:
         print(f"{n1} < {n3} < {n2}")
+
+if n1:
+    
