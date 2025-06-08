@@ -1,0 +1,3 @@
+se = input().split()
+
+
